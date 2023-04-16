@@ -9,6 +9,7 @@
 
 body {
   background: #17171d;
+  height: 100vh;
 }
 
 #app {
@@ -172,7 +173,7 @@ form img {
   color: rgb(68, 68, 68);
   font-size: 1.6rem;
   display: flex;
-  top: 30%;
+  top: 10%;
   left: 50%;
   border-radius: 20px;
   transform: translateX(-50%);
