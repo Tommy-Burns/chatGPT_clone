@@ -118,7 +118,7 @@ form {
   display: flex;
   flex-direction: row;
   gap: 10px;
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 
 textarea {
